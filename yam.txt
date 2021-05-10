@@ -4,5 +4,8 @@ new user->create account_>sign in
 else login to the app
 
 
+post photos or videos
+post instagarm stories
+
 
 thank you;)
